@@ -2,15 +2,7 @@
 
 
 
-<img align-"right" src-"https://visitor-badge.laobi.icu/badge?page_id=bharatlal124.bharatlal124" />
 
-<h1 align="center>
-    < img src="https://readme-typing-svg.herokuapp.com/?
-font=Righteous&size=35&center=true&vcenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bharat+Lal!;" />
-</hl>
-<h3 align="center"> passionate MERN Stack Developer from India</h3>
-
-<br/>
 
 <h1 align="center">👋Hi , I'm Bharatlal🙋‍♂️</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
