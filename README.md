@@ -1,5 +1,17 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 
+
+
+<img align-"right" src-"https://visitor-badge.laobi.icu/badge?page_id=bharatlal124.bharatlal124" />
+
+<h1 align="center>
+    < img src="https://readme-typing-svg.herokuapp.com/?
+font=Righteous&size=35&center=true&vcenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bharat+Lal!;" />
+</hl>
+<h3 align="center"> passionate MERN Stack Developer from India</h3>
+
+<br/>
+
 <h1 align="center">👋Hi , I'm Bharatlal🙋‍♂️</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 <!-- <img align="right" alt="Coding" width="400" src"https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
