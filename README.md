@@ -14,7 +14,8 @@
 - 🌱 I’m currently learning Backend and React<br>
 - 💬 Ask me about Html, CSS, Javascript,  Nodejs<br>
 - 📫 How to reach me **bharatlalsohna@gmail.com**<br>
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1qTwjn8bw0ApPqQwDIRqLxxO5BA7hS3JB/view?usp=sharing](https://drive.google.com/file/d/1-nD165drtKySpe1bDo4v9INagRN6EmsB/view?usp=sharing)](https://drive.google.com/file/d/1qTwjn8bw0ApPqQwDIRqLxxO5BA7hS3JB/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1qTwjn8bw0ApPqQwDIRqLxxO5BA7hS3JB/view?usp=sharing](https://drive.google.com/file/d/1-nD165drtKySpe1bDo4v9INagRN6EmsB/view?usp=sharing)]
+<!--- (https://drive.google.com/file/d/1qTwjn8bw0ApPqQwDIRqLxxO5BA7hS3JB/view?usp=sharing) -->
 <!--⚡Fun fact I Code on 14" Laptop
 👯 I’m looking to collaborate on <br>
 🤝 I’m looking for help with <br>-->
