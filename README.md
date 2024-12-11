@@ -66,6 +66,7 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![Tailwind](https://img.shields.io/badge/tailwind-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
 
 # 📊 GitHub Stats:
