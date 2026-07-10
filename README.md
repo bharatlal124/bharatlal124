@@ -143,7 +143,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bharatlalsohna@gmail.com)
 [![Naukri](https://img.shields.io/badge/Naukri-005BAC?style=for-the-badge)](https://www.naukri.com/code360/profile/Bharat0124)
 
-<div align="left">
+<!-- <div align="left">
 
 <a href="https://bharatlal-portfolio.netlify.app/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -165,7 +165,7 @@
 <img src="https://img.shields.io/badge/Naukri-005BAC?style=for-the-badge"/>
 </a>
 
-</div> 
+</div>  -->
 
 <!-- ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=bharatlal124&limit=5&theme=dark&combine_all_yearly_contributions=true)
