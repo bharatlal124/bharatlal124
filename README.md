@@ -12,20 +12,25 @@
 
 ### Frontend Developer | React.js | Next.js | JavaScript | Node.js
 
-💼 Frontend Developer at Nians (formerly Technians)
-
-🚀 Building scalable, high-performance web applications
-
-🌱 Currently learning Backend Architecture & System Design
-
-
-# 💫 About Me:
+<!--# 💫 About Me:
 - 🔭 I’m currently working on some cool projects<br>
 - 🌱 I’m currently learning Backend and React<br>
 - 💬 Ask me about Html, CSS, Javascript,  Nodejs<br>
 - 📫 How to reach me **bharatlalsohna@gmail.com**<br>
 - 📄 Know about my experiences [[https://drive.google.com/file/d/1VVM6WVujyf9fdZNZfEHoL7SxMutOXhYe/view?usp=drive_link](https://drive.google.com/file/d/1VVM6WVujyf9fdZNZfEHoL7SxMutOXhYe/view?usp=drive_link)] 
 <!--- (https://drive.google.com/file/d/1qTwjn8bw0ApPqQwDIRqLxxO5BA7hS3JB/view?usp=sharing) -->
+
+## 👨‍💻 About Me
+
+- 💼 Frontend Developer at Nians (formerly Technians)
+- 🚀 Building production-ready web applications using React & Next.js
+- 🌱 Learning Backend Architecture, System Design & AWS
+- 🤝 Open to Frontend, Full Stack and Open Source collaborations
+- 💬 Ask me about React, Next.js, JavaScript, Node.js and UI Development
+- ⚡ Fun fact: I enjoy transforming UI designs into pixel-perfect experiences.
+
+
+
 <!--⚡Fun fact I Code on 14" Laptop
 👯 I’m looking to collaborate on <br>
 🤝 I’m looking for help with <br>-->
