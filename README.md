@@ -129,12 +129,36 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bharatlal124&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 -->
 ## 🤝 Connect With Me
-🌐 Portfolio → [https://yourportfolio.com](https://bharatlal-portfolio.netlify.app/)
-💼 LinkedIn → [https://linkedin.com/in/bharatlal0124](https://www.linkedin.com/in/bharatlal0124/)
-📄 Resume → Resume.pdf
-📧 Email → bharatlalsohna@gmail.com
+- 🌐 Portfolio → [https://myportfolio.com](https://bharatlal-portfolio.netlify.app/)
+- 💼 LinkedIn → [https://linkedin.com/in/](https://www.linkedin.com/in/bharatlal0124/)
+- 📄 Resume → Resume.pdf
+- 📧 Email → bharatlalsohna@gmail.com
 
+## 🤝 Connect With Me
 
+<div align="left">
+
+<a href="https://nitsv.github.io/bharatlal-portfolio/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/bharatlal0124/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:bharatlalsohna@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://drive.google.com/file/d/1EEeHx-lVC6Y7uiVT2x2ozNE2hMZdvE5F/view?usp=sharing" target="_blank">
+<img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
+</a>
+
+<a href="https://www.naukri.com/code360/profile/your-profile" target="_blank">
+<img src="https://img.shields.io/badge/Naukri-005BAC?style=for-the-badge"/>
+</a>
+
+</div>
 
 <!-- ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=bharatlal124&limit=5&theme=dark&combine_all_yearly_contributions=true)
