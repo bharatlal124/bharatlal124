@@ -24,7 +24,8 @@
 
 - 💼 Frontend Developer at Nians (formerly Technians)
 - 🚀 Building production-ready web applications using React & Next.js
-- 🌱 Learning Backend Architecture, System Design & AWS
+<!--- 🌱 Learning Backend Architecture, System Design & AWS -->
+- ✨ Crafting pixel-perfect, animated UI/UX.
 - 🤝 Open to Frontend, Full Stack and Open Source collaborations
 - 💬 Ask me about React, Next.js, JavaScript, Node.js and UI Development
 - ⚡ Fun fact: I enjoy transforming UI designs into pixel-perfect experiences.
