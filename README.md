@@ -22,11 +22,11 @@
 
 ## 👨‍💻 About Me
 
-- 💼 Frontend Developer with 2+ years of professional experience
-- 🚀 Building production-ready web applications using React & Next.js
+- 💼 Frontend Developer with 2+ years of professional experience.
+- 🚀 Building production-ready web applications using React & Next.js.
 - ✨ Passionate about crafting pixel-perfect, responsive and accessible user interfaces.
-- 🤝 Open to Frontend, Full Stack and Open Source collaborations
-- 💬 Ask me about React, Next.js, JavaScript, Node.js and UI Development
+- 🤝 Open to Frontend, Full Stack and Open Source collaborations.
+- 💬 Ask me about React, Next.js, JavaScript, Node.js and UI Development.
 - ⚡ I enjoy transforming Figma designs into fast, scalable and production-ready web applications.
 
 <!--- 🌱 Learning Backend Architecture, System Design & AWS -->
