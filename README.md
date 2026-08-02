@@ -12,6 +12,7 @@
 
 ### Frontend Developer | React.js | Next.js | JavaScript | Node.js
 
+
 <!--# 💫 About Me:
 - 🔭 I’m currently working on some cool projects<br>
 - 🌱 I’m currently learning Backend and React<br>
