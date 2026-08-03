@@ -30,6 +30,7 @@
 - 💬 Ask me about React, Next.js, JavaScript, Node.js and UI Development.
 - ⚡ I enjoy transforming Figma designs into fast, scalable and production-ready web applications.
 
+
 <!--- 🌱 Learning Backend Architecture, System Design & AWS -->
 
 <!--⚡Fun fact I Code on 14" Laptop
@@ -57,6 +58,7 @@
         <!-- sqlite, safari, google-chrome are other good icon options 
     </a>
 </div>-->
+
 
 
 ## 💻 Tech Stack:
