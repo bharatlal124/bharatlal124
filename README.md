@@ -62,6 +62,7 @@
 
 
 
+
 ## 💻 Tech Stack:
 ### 💻 Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -146,6 +147,7 @@
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1EEeHx-lVC6Y7uiVT2x2ozNE2hMZdvE5F/view?usp=sharing)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bharatlalsohna@gmail.com)
 [![Naukri](https://img.shields.io/badge/Naukri-005BAC?style=for-the-badge)](https://www.naukri.com/code360/profile/Bharat0124)
+
 
 <!-- <div align="left">
 
